@@ -1,4 +1,4 @@
-#CLHS subchapter consolidator
+# CLHS subchapter consolidator
 
 This is a small tool to consolidate the subchapters of a given chapter in the Common Lisp Hyper Spec.
 
