@@ -1,0 +1,3 @@
+This is a small tool to consolidate the subchapters of a given chapter in the Common Lisp Hyper Spec.
+The Clhs has a different website for each (sub-) chapter, even if the contetn is jsut one single line of text... This might have made sensein the early days of the internet, when broadband wasn't available, but today it just makes the thing unreadable. 
+This tool recursively follows all the chapterlinks of the given chapter and its subchapters and consolidates them into a single HTML file for better readability.
